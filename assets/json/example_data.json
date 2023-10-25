@@ -3,16 +3,22 @@
     {
       "id": "p1",
       "name": "Item 1",
+      "link": "https://evanizhni.github.io/",
+      "checkbox": true,
+      "checkboxTitle": "Checkbox",
+      "signal": "0",
       "description": "Description 1"
     },
     {
       "id": "p2",
       "name": "Item 2",
+      "signal": "2",
       "description": "Description 2"
     },
     {
       "id": "p3",
       "name": "Item 3",
+      "signal": "1",
       "description": "Description 3"
     },
     {
@@ -59,8 +65,8 @@
       "id": "p12",
       "name": "Item 3",
       "description": "Description 3"
-    }
-    ,{
+    },
+    {
       "id": "p13",
       "name": "Item 1",
       "description": "Description 1"
